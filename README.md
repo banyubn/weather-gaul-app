@@ -8,6 +8,15 @@
 
 A contemporary weather application that delivers accurate forecasts with a clean, user-friendly interface and delightful micro-interactions.
 
+
+## Screenshots
+
+![App Screenshot](screenshots/screenshot-1.png)
+![App Screenshot](screenshots/screenshot-2.png)
+![App Screenshot](screenshots/screenshot-3.png)
+
+
+
 ## ✨ Key Features
 
 
@@ -48,14 +57,7 @@ cp .env.example .env
 
 # 5. Launch development server
 npm start
-## Screenshots
-
-![App Screenshot](screenshots/screenshot-1.png)
-![App Screenshot](screenshots/screenshot-2.png)
-![App Screenshot](screenshots/screenshot-3.png)
-
-
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at anyugantenk@gmail.com
 
