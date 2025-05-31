@@ -40,23 +40,6 @@ A contemporary weather application that delivers accurate forecasts with a clean
 - **API**: OpenWeatherMap
 - **Animation**: Framer Motion
 
-## 🚀 Installation
-
-```bash
-# 1. Clone repository
-git clone https://github.com/banyubn/weatherly.git
-
-# 2. Navigate to project directory
-cd weatherly
-
-# 3. Install dependencies
-npm install
-
-# 4. Configure environment
-cp .env.example .env
-
-# 5. Launch development server
-npm start
 ## Feedback
 
 If you have any feedback, please reach out to us at anyugantenk@gmail.com
